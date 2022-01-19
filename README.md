@@ -1,6 +1,7 @@
 # Data Engineering Zoomcamp
 
-<img src="https://github.com/DataTalksClub/dataengzoomcamp/blob/main/images/dataeng.jpg"/>
+<img src="https://github.com/ayoub-berdeddouch/dataengzoomcamp/blob/main/images/dataenge.jpg"/>
+
 
 ---
 
